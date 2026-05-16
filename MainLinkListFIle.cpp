@@ -1,5 +1,5 @@
-#include "singlyLinkListBYME.hpp"
-#include "DoublyLinkListBYME.hpp"
+#include "singlyLinkList.hpp"
+#include "DoublyLinkList.hpp"
 
 int main()
 {
